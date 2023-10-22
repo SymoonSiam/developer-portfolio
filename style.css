@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -27,7 +28,11 @@ section{
     background-image: linear-gradient(rad,sky);
 }
 .top{
-    background-image: url(image/top.jpeg);
+    background-image: url(image/topp.jpeg);
     
+}
+.Dream-Big{
+    background-image: url(image/toppeee.jpeg);
+
 }
     
